@@ -2,7 +2,7 @@
 
 ---
 
-This is bookmark management tool for nushell。You can use this tool to manage bookmarks and check the directory。
+This is bookmark management tool for nushell. You can use this tool to manage bookmarks and change the director.
 
 ---
 
