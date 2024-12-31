@@ -63,6 +63,9 @@ press `Tab` after `bm ` will display completion (desc)
   ```sh
   ~\.config> bm 
   first_bookmark      second_bookmark
+
+  ~\.config> bm second_bookmark
+  ~\.config\test2>
   ```
 
 - change dir by num
